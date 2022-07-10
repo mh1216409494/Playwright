@@ -26,6 +26,7 @@ public class testTest {
     public void tearDown() {
         traceUtil.stopTrace();
         traceUtil.getPlaywright().close();
+        System.out.print("");
     }
 
 }
