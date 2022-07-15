@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="playwright1" />
+        <module name="Playwright" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Playwright" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
