@@ -25,6 +25,7 @@ public class test2 {
 //            System.out.print(page.locator("a:has-text(\"Community\")").innerHTML());
 //            System.out.print(page.locator("a:has-text(\"Community\")").innerText());
 //            System.out.print("aa");
+//    jgyuguviu
 //        }
 //
 //    }
