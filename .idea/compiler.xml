@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Playwright" target="1.8" />
+      <module name="playwright1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
