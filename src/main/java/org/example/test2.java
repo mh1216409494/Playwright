@@ -43,5 +43,6 @@ public class test2 {
         System.out.println(page.locator("a:has-text(\"Community\")").innerText());
         //asdfasfasfadsfdsaf
         System.out.println("aa");
+        System.out.println("aa");
     }
 }
